@@ -60,3 +60,6 @@ Reducen la dimensionalidad de las características, manteniendo la información 
 Ayudan a estabilizar y acelerar el entrenamiento.
 ### 5- Salida de la DEEP CNN
 La salida de la DEEP CNN es un mapa de características que se pasa a la RPN para generar propuestas de regiones.
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hCClhLjEKcVBE1j1vO_IV3vrSK4D96Ka)
+
